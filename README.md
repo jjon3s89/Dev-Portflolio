@@ -1,2 +1,2 @@
 # Dev-Portflolio
-Repo for showing of projects
+Repo for showing off projects - Jesse Jones Jr
